@@ -1,0 +1,7 @@
+Here you will find how to run tests
+
+1) Open Tests folder
+2) in Tests folder you will find 2 js files
+3) config.js contain configurations, there should be name of js file with tests
+4) Tests.js file with tests
+5) constants.js file contain global variable which user can use in whole project
